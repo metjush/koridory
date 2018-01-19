@@ -1,0 +1,2 @@
+# koridory
+testovanie dostupnosti dialnic
