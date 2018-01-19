@@ -1,0 +1,2926 @@
+1;Bratislava  mestska cast Stare Mesto;39953
+2;Bratislava  m c Podunajske Biskupice;21862
+3;Bratislava  mestska cast Ruzinov;72032
+4;Bratislava  mestska cast Vrakuna;20198
+5;Bratislava  mestska cast Nove Mesto;38002
+6;Bratislava  mestska cast Raca;21384
+7;Bratislava  mestska cast Vajnory;5707
+8;Bratislava  m c Devinska Nova Ves;16009
+9;Bratislava  mestska cast Dubravka;33187
+10;Bratislava  mestska cast Karlova Ves;33355
+11;Bratislava  mestska cast Devin;1382
+12;Bratislava  mestska cast Lamac;7201
+13;Bratislava  m c Zahorska Bystrica;4898
+14;Bratislava  mestska cast Cunovo;1402
+15;Bratislava  mestska cast Jarovce;2100
+16;Bratislava  mestska cast Petrzalka;103473
+17;Bratislava  mestska cast Rusovce;3778
+18;Zahorie vojensky obvod;151
+19;Male Levare;1208
+20;Plavecke Podhradie;656
+21;Plavecky Mikulas;724
+22;Rohoznik okres Malacky;3465
+23;Solosnica;1552
+24;Studienka;1636
+25;Velke Levare;3579
+26;Zavod;2807
+27;Borinka;747
+28;Gajary;3009
+29;Jablonove okres Malacky;1250
+30;Jakubov;1604
+31;Kostoliste;1490
+32;Kuchyna;1702
+33;Lab;1737
+34;Lozorno;3012
+35;Malacky;17357
+36;Marianka;1985
+37;Pernek;862
+38;Plavecky Stvrtok;2348
+39;Stupava;11099
+40;Suchohrad;650
+41;Vysoka pri Morave;2287
+42;Zahorska Ves;1868
+43;Zohor;3313
+44;Bahon;1815
+45;Budmerice;2393
+46;Casta;2235
+47;Dolany okres Pezinok;1086
+48;Dubova okres Pezinok;1042
+49;Jablonec;999
+50;Svaty Jur;5593
+51;Limbach;2014
+52;Modra;8934
+53;Pezinok;22633
+54;Pila okres Pezinok;330
+55;Slovensky Grob;3177
+56;Senkvice;4809
+57;Stefanova;341
+58;Vinicne;2385
+59;Vinosady;1359
+60;Vistuk;1314
+61;Boldog;459
+62;Hruba Borsa;774
+63;Hruby Sur;935
+64;Hurbanova Ves;325
+65;Kostolna pri Dunaji;651
+66;Kralova pri Senci;1955
+67;Reca;1471
+68;Bernolakovo;6805
+69;Blatne;1748
+70;Cataj;1176
+71;Hamuliakovo;1953
+72;Chorvatsky Grob;5388
+73;Ivanka pri Dunaji;6564
+74;Kalinkovo;1278
+75;Malinovo;3115
+76;Miloslavov;2433
+77;Most pri Bratislave;3024
+78;Nova Dedinka;2503
+79;Rovinka;3681
+80;Senec;19086
+81;Tomasov;2499
+82;Turen;1123
+83;Velky Biel;2494
+84;Vlky;414
+85;Dunajska Luzna;6133
+86;Igram;575
+87;Kaplna;763
+88;Zalesie okres Senec;1992
+89;Novy Svet;95
+90;Dunajska Streda;22641
+91;Bac;563
+92;Baka;1083
+93;Balon;760
+94;Blahova;365
+95;Blatna na Ostrove;893
+96;Bohelov;353
+97;Cakany;640
+98;Velky Meder;8678
+99;Cilizska Radvan;1160
+100;Dobrohost;477
+101;Dolny Bar;631
+102;Gabcikovo;5387
+103;Holice;1986
+104;Horna Poton;1972
+105;Horny Bar;1219
+106;Dolny Stal;1901
+107;Hubice;597
+108;Hviezdoslavov;1348
+109;Jahodna;1534
+110;Janiky;905
+111;Jurova;461
+112;Klucovec;367
+113;Kostolne Kracany;1338
+114;Kralovicove Kracany;1053
+115;Kutniky;1382
+116;Kvetoslavov;1284
+117;Lehnice;2619
+118;Luc na Ostrove;726
+119;Medvedov;535
+120;Mierovo;449
+121;Michal na Ostrove;967
+122;Novy Zivot;2242
+123;Ohrady;1306
+124;Okoc;3619
+125;Oldza;488
+126;Orechova Poton;1674
+127;Padan;902
+128;Sap;520
+129;Patas;804
+130;Rohovce;1206
+131;Samorin;13303
+132;Stvrtok na Ostrove;1744
+133;Topolniky;3051
+134;Narad;630
+135;Trnavka okres Dunajska Streda;492
+136;Trstena na Ostrove;565
+137;Velka Paka;951
+138;Velke Blahovo;1586
+139;Vojka nad Dunajom;463
+140;Vrakun;2649
+141;Vydrany;1703
+142;Zlate Klasy;3603
+143;Bodiky;269
+144;Bellova Ves;278
+145;Dunajsky Klatov;586
+146;Horne Myto;917
+147;Trhova Hradska;2165
+148;Macov;338
+149;Mad;583
+150;Male Dvorniky;1123
+151;Velke Dvorniky;1194
+152;Povoda;934
+153;Vieska okres Dunajska Streda;424
+154;Cenkovce;1075
+155;Kyselica;153
+156;Potonske Luky;271
+157;Galanta;15054
+158;Abraham;1027
+159;Cierna Voda;1389
+160;Cierny Brod;1614
+161;Dolne Saliby;1972
+162;Dolny Chotar;402
+163;Gan;786
+164;Horne Saliby;3290
+165;Hoste;466
+166;Janovce okres Galanta;488
+167;Jelka;3926
+168;Kajal;1540
+169;Kosuty;1650
+170;Kralov Brod;1100
+171;Mostova;1595
+172;Pata;3104
+173;Puste Sady;590
+174;Puste Ulany;1781
+175;Sered;15814
+176;Sladkovicovo;5303
+177;Salgocka;451
+178;Sintava;1724
+179;Soporna;4219
+180;Tomasikovo;1684
+181;Topolnica;817
+182;Trstice;3736
+183;Vahovce;2111
+184;Velka Maca;2526
+185;Velke Ulany;4476
+186;Velky Grob;1329
+187;Vinohrady nad Vahom;1594
+188;Vozokany okres Galanta;1158
+189;Zemianske Sady;854
+190;Matuskovo;2163
+191;Dolna Streda;1534
+192;Mala Maca;599
+193;Bojnicky;1380
+194;Cervenik;1641
+195;Dolne Otrokovce;385
+196;Dolne Trhoviste;658
+197;Dvorniky;2018
+198;Hlohovec;21933
+199;Horne Otrokovce;873
+200;Jalsove;500
+201;Klacany;1058
+202;Koplotovce;776
+203;Leopoldov;4175
+204;Madunice;2203
+205;Merasice;440
+206;Pastuchov;980
+207;Sasinkovo;858
+208;Siladice;660
+209;Trakovice;1544
+210;Zlkovce;664
+211;Ratkovce;319
+212;Dolne Zelenice;607
+213;Horne Zelenice;695
+214;Horne Trhoviste;600
+215;Tekoldany;137
+216;Teplicky;316
+217;Borovce;1008
+218;Dolny Lopasov;971
+219;Drahovce;2562
+220;Dubovany;1023
+221;Chtelnica;2556
+222;KocinLancar;525
+223;Krakovany;1443
+224;Moravany nad Vahom;2393
+225;Nizna okres Piestany;549
+226;Ostrov okres Piestany;1232
+227;Pecenady;536
+228;Piestany;27777
+229;Prasnik;849
+230;Rakovice;584
+231;Ratnovce;1063
+232;Sokolovce;1291
+233;Trebatice;1346
+234;Velke Kostolany;2747
+235;Vesele;1180
+236;Vrbove;5988
+237;Sterusy;499
+238;Velke Orviste;1066
+239;Hubina;507
+240;Ducove;457
+241;Basovce;349
+242;Sipkove;307
+243;Banka;2116
+244;Senica;20402
+245;Bilkove Humence;202
+246;Borsky Svaty Jur;1666
+247;Borsky Mikulas;3960
+248;Cerova;1176
+249;Cary;1301
+250;Castkov;595
+251;Dojc;1254
+252;Hlboke;931
+253;Hradiste pod Vratnom;664
+254;Jablonica;2230
+255;Kovalov;707
+256;Kuklov;793
+257;Kuty;3997
+258;Laksarska Nova Ves;1092
+259;Moravsky Svaty Jan;2106
+260;Osuske;602
+261;Plavecky Peter;618
+262;Podbranc;628
+263;Prietrz;734
+264;Prievaly;1004
+265;Rovensko;448
+266;Smolinske;908
+267;Smrdaky;674
+268;Sobotiste;1496
+269;Sajdikove Humence;1122
+270;SastinStraze;5074
+271;Stefanov;1651
+272;Sekule;1759
+273;Rohov;404
+274;Rybky;457
+275;Brodske;2315
+276;Dubovce;644
+277;Gbely;5155
+278;Holic;11149
+279;Chropov;385
+280;Katov;632
+281;Kopcany;2607
+282;Kovalovec;139
+283;Letnicie;503
+284;Lopasov;332
+285;Mokry Haj;708
+286;Oreske okres Skalica;387
+287;Petrova Ves;1085
+288;Popudinske Mocidlany;905
+289;Prietrzka;489
+290;Radimov;572
+291;Radosovce okres Skalica;1763
+292;Skalica;14914
+293;Trnovec;313
+294;Unin;1223
+295;Vradiste;819
+296;Trnava;65536
+297;Binovce;677
+298;Bohdanovce nad Trnavou;1366
+299;Boleraz;2310
+300;Borova;432
+301;Brestovany;2618
+302;Bucany;2316
+303;Bukova;667
+304;Cifer;4225
+305;Dechtice;1853
+306;Dobra Voda;819
+307;Dolna Krupa;2271
+308;Dolne Dubove;700
+309;Dolne Oresany;1284
+310;Horna Krupa;497
+311;Horne Dubove;377
+312;Horne Oresany;1892
+313;Jaslovske Bohunice;2249
+314;Katlovce;1171
+315;Kosolna;778
+316;Majcichov;1942
+317;Malzenice;1483
+318;Nahac;427
+319;Ruzindol;1633
+320;Smolenice;3370
+321;Sucha nad Parnou;2102
+322;Spacince;2797
+323;Surovce;2330
+324;Trstin;1443
+325;Voderady;1491
+326;Zavar;2275
+327;Zelenec;2563
+328;Krizovany nad Dudvahom;1831
+329;Opoj;1100
+330;Vlckovce;1343
+331;Pavlice;565
+332;Slovenska Nova Ves;511
+333;Dlha;442
+334;Radosovce okres Trnava;401
+335;Dolne Lovcice;747
+336;Selpice;901
+337;Losonec;521
+338;Biely Kostol;1827
+339;Hrnciarovce nad Parnou;2267
+340;Zvoncin;817
+341;Lutov;166
+342;Mala Hradna;381
+343;Male Hoste;397
+344;Miezgovce;279
+345;Nedasovce;440
+346;Omastina;35
+347;Pecenany;501
+348;Podluzany okres Banovce nad Bebravou;861
+349;Pravotice;306
+350;Prusy;605
+351;Ruskovce okres Banovce nad Bebravou;514
+352;Rybany;1460
+353;Slatina nad Bebravou;417
+354;Slatinka nad Bebravou;191
+355;Sipkov;142
+356;Sisov;494
+357;Timoradza;536
+358;Trebichava;37
+359;Uhrovec;1510
+360;Uhrovske Podhradie;36
+361;Velke Hoste;576
+362;Velke Chlievany;491
+363;Vysocany;112
+364;Zlatniky;681
+365;ZitnaRadisa;453
+366;Banovce nad Bebravou;18606
+367;Brezolupy;502
+368;Cimenna;96
+369;Cierna Lehota okres Banovce nad Bebravou;112
+370;Dezerice;887
+371;Dolne Nastice;573
+372;Dubnicka;117
+373;Dvorec;430
+374;Halacovce;369
+375;Horne Nastice;439
+376;Krasna Ves;514
+377;Ksinna;494
+378;Velke Drzkovce;661
+379;Otrhanky;412
+380;Libichava;138
+381;Chuda Lehota;210
+382;Pochabany;245
+383;Borcany;253
+384;Bolesov;1567
+385;Cerveny Kamen;691
+386;Dubnica nad Vahom;24262
+387;Dulov;919
+388;Horna Poruba;1083
+389;Ilava;5456
+390;Koseca;2631
+391;Ladce;2599
+392;Kosecke Podhradie;1038
+393;Mikusovce okres Ilava;1027
+394;Nova Dubnica;11147
+395;Pruske;2283
+396;Tuchyna;780
+397;Zliechov;596
+398;Borcice;604
+399;Kamenicany;549
+400;Sedmerovec;434
+401;Slavnica;829
+402;Krivoklat;242
+403;Vrsatske Podhradie;223
+404;Bohunice okres Ilava;767
+405;Brestovec okres Myjava;947
+406;Brezova pod Bradlom;4949
+407;Bukovec okres Myjava;422
+408;Chvojnica okres Myjava;356
+409;Jablonka;481
+410;Kosariska;436
+411;Myjava;11831
+412;Polianka;403
+413;Poriadie;702
+414;Priepasne;384
+415;Rudnik okres Myjava;822
+416;Stara Myjava;733
+417;Vrbovce;1508
+418;Hrasne;484
+419;Kostolne;608
+420;Krajne;1540
+421;Podkylava;223
+422;Beckov;1353
+423;Bosaca;1398
+424;Brunovce;543
+425;Bzince pod Javorinou;2089
+426;Cachtice;3998
+427;Castkovce;1409
+428;Dolne Srnie;998
+429;Horka nad Vahom;743
+430;Horna Streda;1386
+431;Hradok;726
+432;Hrachoviste;714
+433;Kalnica;1046
+434;Kocovce;1536
+435;Lubina;1423
+436;Luka;666
+437;Modrova;500
+438;Modrovka;196
+439;Moravske Lieskove;2573
+440;Nova Bosaca;1076
+441;Nova Lehota;200
+442;Nove Mesto nad Vahom;20099
+443;Ockov;497
+444;Pobedim;1154
+445;Podolie;1881
+446;Potvorice;654
+447;Povazany;1256
+448;Stara Lehota;200
+449;Stara Tura;9003
+450;Trencianske Bohuslavice;925
+451;Vadovce;733
+452;Visnove okres Nove Mesto nad Vahom;177
+453;Haluzice;76
+454;Zemianske Podhradie;782
+455;Nova Ves nad Vahom;556
+456;Male Krstenany;540
+457;Nadlice;629
+458;Nedanovce;623
+459;Ostratice;819
+460;Partizanske;22999
+461;Pazit;465
+462;Skacany;1368
+463;Velke Krstenany;594
+464;Velke Uherce;2032
+465;Velky Kliz;900
+466;Zabokreky nad Nitrou;1712
+467;Bosany;4086
+468;Hradiste okres Partizanske;1005
+469;Chynorany;2716
+470;Klatova Nova Ves;1657
+471;Kolacno;883
+472;Livina;113
+473;Livinske Opatovce;242
+474;Krasno;498
+475;Turcianky;147
+476;Jeskova Ves;502
+477;Brodzany;856
+478;Male Uherce;736
+479;Povazska Bystrica;40075
+480;Brvniste;1185
+481;Dolna Marikova;1408
+482;Domaniza;1545
+483;Horna Marikova;595
+484;Jasenica;1088
+485;Kostolec;241
+486;Papradno;2498
+487;PlevnikDrienove;1592
+488;Precin;1488
+489;Pruzina;2050
+490;Stupne;709
+491;Udica;2218
+492;Vrchtepla;273
+493;Zaskalie;189
+494;Sverepec;1309
+495;Dolny Lieskov;810
+496;Slopna;492
+497;Hatne;603
+498;Kliestina;333
+499;Celkova Lehota;138
+500;Male Lednice;514
+501;Sadocne;164
+502;Durdove;144
+503;Bodina;490
+504;Pocarova;141
+505;Horny Lieskov;394
+506;Podskalie;124
+507;Prievidza;46830
+508;Bojnice;4922
+509;Bystricany;1791
+510;Cigel;1249
+511;Cavoj;494
+512;Cerenany;1672
+513;Diviacka Nova Ves;1780
+514;Diviaky nad Nitricou;1757
+515;Dlzin;161
+516;Dolne Vestenice;2572
+517;Handlova;17260
+518;Horna Ves okres Prievidza;1449
+519;Horne Vestenice;624
+520;ChrenovecBrusno;1391
+521;Chvojnica okres Prievidza;262
+522;Kamenec pod Vtacnikom;1792
+523;Kanianka;4108
+524;Klacno;1110
+525;Kocurany;516
+526;Kostolna Ves;457
+527;Kos;1105
+528;Lazany;1692
+529;Lehota pod Vtacnikom;3937
+530;Liestany;1244
+531;Mala Causa;676
+532;Malinova;942
+533;NedozeryBrezany;2132
+534;Nevidzany okres Prievidza;303
+535;Nitrianske Pravno;3236
+536;Nitrianske Rudno;1941
+537;Nitrianske Sucany;1202
+538;Nitrica;1216
+539;Novaky;4230
+540;Opatovce nad Nitrou;1579
+541;Oslany;2403
+542;Podhradie okres Prievidza;310
+543;Poluvsie;589
+544;Poruba;1292
+545;Pravenec;1325
+546;Radobica;541
+547;Raztocno;1212
+548;Rudnianska Lehota;760
+549;Sebedrazie;1746
+550;Sec;387
+551;Sutovce;438
+552;Temes;234
+553;Tuzina;1196
+554;Valaska Bela;2140
+555;Velka Causa;489
+556;Zemianske Kostolany;1749
+557;Lipnik;512
+558;Jalovec okres Prievidza;578
+559;Zubak;836
+560;Belusa;5885
+561;Dohnany;1771
+562;Dolna Breznica;963
+563;Horovce okres Puchov;851
+564;Lazy pod Makytou;1230
+565;Lednica;951
+566;Lednicke Rovne;4043
+567;Luky;924
+568;Lysa pod Makytou;2099
+569;Mestecko;528
+570;Mojtin;442
+571;Puchov;17923
+572;Visolaje;930
+573;Zariecie;701
+574;Dolne Kockovce;1223
+575;Nimnica;715
+576;Strezenice;960
+577;Vydrna;320
+578;Kvasov;652
+579;Horna Breznica;487
+580;Trencin;55593
+581;Adamovske Kochanovce;862
+582;Bobot;746
+583;Dolna Poruba;791
+584;Dolna Suca;3060
+585;Drietoma;2264
+586;Dubodiel;948
+587;Horna Suca;3415
+588;Hornany;451
+589;Horne Srnie;2788
+590;Hrabovka;429
+591;ChocholnaVelcice;1693
+592;Ivanovce;958
+593;KostolnaZariecie;667
+594;KrivosudBodovka;342
+595;Mnichova Lehota;1215
+596;Motesice;803
+597;Nemsova;6350
+598;Neporadza okres Trencin;797
+599;Omsenie;1963
+600;Opatovce;419
+601;Selec;1007
+602;Soblahov;2271
+603;Svinna;1568
+604;Stvrtok;361
+605;Trencianska Tepla;4208
+606;Trencianska Turna;3310
+607;Trencianske Jastrabie;1232
+608;Trencianske Mitice;773
+609;Trencianske Teplice;4196
+610;Velka Hradna;710
+611;Velke Bierovce;691
+612;MelciceLieskove;1630
+613;Trencianske Stankovce;3239
+614;Skalka nad Vahom;1173
+615;Zamarovce;1013
+616;Petrova Lehota;180
+617;Komarno;34190
+618;Bajc;1235
+619;Bodza;393
+620;Brestovec okres Komarno;500
+621;Buc;1128
+622;Calovec;1176
+623;Cicov;1269
+624;Dedina Mladeze;457
+625;Svaty Peter;2774
+626;Dulovce;1735
+627;Hurbanovo;7515
+628;Chotin;1382
+629;Imel;1948
+630;Iza;1638
+631;Kamenicna;1914
+632;Klizska Nema;503
+633;Kolarovo;10599
+634;Kravany nad Dunajom;721
+635;Lipove;140
+636;Marcelova;3728
+637;Martovce;692
+638;Moca;1128
+639;Modrany;1416
+640;Mudronovo;121
+641;Nesvady;5096
+642;Okolicna na Ostrove;1502
+643;Patince;458
+644;Pribeta;2849
+645;Radvan nad Dunajom;701
+646;Sokolce;1213
+647;Srobarova;502
+648;Ton;758
+649;Travnik;715
+650;Velke Kosihy;965
+651;Batorove Kosihy;3341
+652;Vrbova nad Vahom;546
+653;Zemianska Olca;2315
+654;Zlatna na Ostrove;2376
+655;Bodzianske Luky;192
+656;Virt;290
+657;Holiare;478
+658;Levice;33548
+659;Bajka;315
+660;Batovce;1136
+661;Besa okres Levice;645
+662;Bielovce;229
+663;Bory;324
+664;Brhlovce;305
+665;Cajkov;957
+666;Caka;750
+667;Demandice;970
+668;Devicany;392
+669;Dolna Sec;461
+670;Dolne Semerovce;559
+671;Dolny Pial;935
+672;Domadice;252
+673;Drzenice;386
+674;Farna;1345
+675;Hokovce;504
+676;Hontianska Vrbica;586
+677;Horna Sec;550
+678;Horne Semerovce;620
+679;Horne Turovce;606
+680;Horny Pial;268
+681;Hronovce;1468
+682;Hronske Klacany;1443
+683;Hronske Kosihy;696
+684;Ina;214
+685;Ipelske Ulany;277
+686;Ipelsky Sokolec;835
+687;Jablonovce;200
+688;Jur nad Hronom;969
+689;Kalna nad Hronom;2069
+690;Kozarovce;2047
+691;Krskany;759
+692;Kubanovo;276
+693;Kukucinov;601
+694;Kuralany;514
+695;Ket;608
+696;Lok;958
+697;Lontov;686
+698;Lula;173
+699;Malas;463
+700;Male Ludince;169
+701;Mytne Ludany;964
+702;Nova Dedina;1514
+703;Novy Tekov;857
+704;Nyrovce;514
+705;Ondrejovce;462
+706;Pastovce;499
+707;Pecenice;116
+708;Plastovce;1558
+709;Plave Vozokany;785
+710;Podluzany okres Levice;773
+711;Pohronsky Ruskov;1266
+712;Pukanec;1856
+713;Rybnik okres Levice;1423
+714;Santovka;671
+715;Sazdice;478
+716;Sikenica;646
+717;Slatina;316
+718;Stary Hradok;186
+719;Stary Tekov;1452
+720;Sahy;7368
+721;Salov;373
+722;Sarovce;1647
+723;Tehla;510
+724;Tekovske Luzany;2867
+725;Tekovsky Hradok;349
+726;Tlmace;3612
+727;Tupa;603
+728;Tura;207
+729;Uhliska;182
+730;Velke Ludince;1474
+731;Velke Turovce;752
+732;Velky Dur;1263
+733;Vyskovce nad Iplom;677
+734;Vysne nad Hronom;183
+735;Zalaba;179
+736;Zbrojniky;504
+737;Zeliezovce;6945
+738;Zemberovce;1260
+739;Zemliare;161
+740;Hontianske Trstany;317
+741;Cata;979
+742;Jesenske okres Levice;51
+743;Bohunice okres Levice;141
+744;Male Kozmalovce;333
+745;Velke Kozmalovce;703
+746;Hrkovce;276
+747;Nitra;77374
+748;Aleksince;1657
+749;Bab;1103
+750;Branc;2218
+751;Cakajovce;1159
+752;Celadice;965
+753;Cifare;599
+754;Dolne Obdokovce;1158
+755;Golianovo;1668
+756;Hrubonovo;515
+757;Jarok;2002
+758;Jelenec;2123
+759;Jelsovce;1022
+760;Kapince;187
+761;Klasov;1373
+762;Kolinany;1596
+763;Lehota;2216
+764;Lucnica nad Zitavou;931
+765;Lukacovce;1148
+766;Velke Chyndice;322
+767;Male Zaluzie;270
+768;Melek;451
+769;Mojmirovce;2888
+770;Nova Ves nad Zitavou;1345
+771;Nove Sady;1283
+772;Pana;371
+773;Podhorany okres Nitra;1100
+774;Pohranice;1077
+775;Polny Kesov;651
+776;Risnovce;2059
+777;Rumanova;831
+778;Surianky;599
+779;Tajna;282
+780;Velka Dolina;651
+781;Velke Zaluzie;4233
+782;Velky Cetin;1592
+783;Vinodol;1985
+784;Vrable;8731
+785;VycapyOpatovce;2186
+786;Zbehy;2248
+787;Zirany;1367
+788;Zitavce;382
+789;CabajCapor;4181
+790;Horne Lefantovce;883
+791;Maly Lapas;814
+792;Velky Lapas;1363
+793;Cechynce;1160
+794;Maly Cetin;402
+795;Hostova;362
+796;Telince;419
+797;Svatoplukovo;1323
+798;Nitrianske Hrnciarovce;2086
+799;Male Chyndice;381
+800;Ivanka pri Nitre;2613
+801;Luzianky;2973
+802;Ludovitova;245
+803;Babindol;738
+804;Stefanovicova;345
+805;Cab;785
+806;Dolne Lefantovce;586
+807;Badice;344
+808;Stitare;872
+809;Nove Zamky;38486
+810;Andovce;1434
+811;Bajtava;401
+812;Banov;3734
+813;Bardonovo;721
+814;Bela okres Nove Zamky;344
+815;Besenov;1630
+816;Bina;1432
+817;Branovo;578
+818;Bruty;599
+819;Cechy;310
+820;Cernik;1034
+821;Dedinka;722
+822;Dolny Ohaj;1563
+823;Dubnik;1612
+824;Dvory nad Zitavou;5120
+825;Gbelce;2186
+826;Hul;1182
+827;Chlaba;711
+828;Jasova;1170
+829;Jatov;764
+830;Kamenica nad Hronom;1360
+831;Kamenin;1477
+832;Kamenny Most;1048
+833;Kmetovo;853
+834;Kolta;1299
+835;Komjatice;4338
+836;Komoca;958
+837;Lela;310
+838;Lipova okres Nove Zamky;1529
+839;Luba;424
+840;Mala nad Hronom;385
+841;Male Kosihy;383
+842;Mana;2081
+843;Michal nad Zitavou;656
+844;Velky Kyr;2982
+845;Mojzesovo;1316
+846;Muzla;1884
+847;Nova Vieska;698
+848;Palarikovo;4255
+849;Podhajska;1025
+850;Pozba;453
+851;Radava;761
+852;Rastislavice;919
+853;Ruban;979
+854;Salka;1001
+855;Semerovo;1400
+856;Sikenicka;429
+857;Strekov;1993
+858;Svodin;2513
+859;Sarkan;381
+860;Sturovo;10465
+861;Surany;9892
+862;Travnica;1062
+863;Tvrdosovce;5162
+864;Velke Lovce;1889
+865;Zemne;2165
+866;Vlkas;325
+867;Pavlova;228
+868;Ulany nad Zitavou;1520
+869;Nana;1215
+870;Obid;1167
+871;Hajske;1308
+872;Mocenok;4305
+873;Diakovce;2246
+874;Dlha nad Vahom;880
+875;Kralova nad Vahom;1776
+876;Neded;3320
+877;Selice;2842
+878;Sala;22464
+879;Tesedikovo;3711
+880;Trnovec nad Vahom;2707
+881;Vlcany;3258
+882;Ziharec;1662
+883;Horna Kralova;1879
+884;Topolcany;25842
+885;Lipovnik okres Topolcany;323
+886;Ludanice;1838
+887;Luzany;206
+888;Male Ripnany;551
+889;Nemecky;309
+890;Nitrianska Blatnica;1234
+891;Nitrianska Streda;760
+892;Norovce;329
+893;Oponice;808
+894;Podhradie okres Topolcany;294
+895;Prasice;2032
+896;Preselany;1434
+897;Radosina;1956
+898;Rajcany;542
+899;Solcany;2477
+900;Sulovce;494
+901;Salgovce;516
+902;Tesare;728
+903;Tvrdomestice;450
+904;Urmince;1406
+905;Velke Dvorany;715
+906;Velke Ripnany;2104
+907;Velusovce;505
+908;Vozokany okres Topolcany;347
+909;Zavada okres Topolcany;587
+910;Belince;320
+911;Biskupova;244
+912;Blesovce;338
+913;Bojna;2033
+914;Cermany;356
+915;Hajna Nova Ves;333
+916;Horne Obdokovce;1516
+917;Horne Stitare;545
+918;Hrusovany;1103
+919;Kamanova;621
+920;Koniarovce;642
+921;Kovarce;1628
+922;Krnca;1347
+923;Krtovce;307
+924;Krusovce;1695
+925;Jacovce;1754
+926;Chrabrany;755
+927;Oresany;326
+928;Ardanovce;207
+929;Svrbice;191
+930;Dvorany nad Nitrou;758
+931;Celadince;440
+932;Solcianky;268
+933;Horne Chlebany;361
+934;Tovarniky;1470
+935;Nemcice;990
+936;Praznovce;976
+937;Kuzmice okres Topolcany;688
+938;Beladice;1621
+939;Caradice;501
+940;Cierne Klacany;1124
+941;Hostie;1222
+942;Hostovce okres Zlate Moravce;753
+943;Choca;513
+944;Jedlove Kostolany;916
+945;Kostolany pod Tribecom;338
+946;Ladice;736
+947;Lovce;660
+948;Machulince;1121
+949;Mankovce;541
+950;Martin nad Zitavou;526
+951;Nemcinany;685
+952;Neverice;703
+953;Nevidzany okres Zlate Moravce;582
+954;Obyce;1505
+955;Skycov;974
+956;Slazany;1692
+957;Slepcany;822
+958;Tesarske Mlynany;1792
+959;Topolcianky;2643
+960;Velcice;840
+961;Vieska nad Zitavou;452
+962;Volkovce;1008
+963;Zlate Moravce;11656
+964;Zlatno okres Zlate Moravce;217
+965;Zikava;521
+966;Tekovske Nemce;1068
+967;Cerveny Hradok;413
+968;Male Vozokany;268
+969;Velke Vozokany;466
+970;Zitavany;1918
+971;Brezovica okres Tvrdosin;1317
+972;Habovka;1387
+973;Hladovka;1039
+974;Liesek;2892
+975;Nizna okres Tvrdosin;4038
+976;Oravsky Biely Potok;720
+977;Podbiel;1279
+978;Sucha Hora;1420
+979;Stefanov nad Oravou;677
+980;Trstena;7396
+981;Tvrdosin;9215
+982;Vitanova;1308
+983;Zabiedovo;853
+984;Zuberec;1838
+985;Cimhova;674
+986;Zilina;81041
+987;Bela okres Zilina;3383
+988;Cicmany;131
+989;Divina;2399
+990;Divinka;1051
+991;Dlhe Pole;1900
+992;Dolna Tizina;1363
+993;Dolny Hricov;1569
+994;Fackov;641
+995;Gbelany;1326
+996;Horky;769
+997;Horny Hricov;787
+998;Jasenove;620
+999;Kamenna Poruba okres Zilina;1855
+1000;Konska okres Zilina;1542
+1001;Kotrcina Lucka;478
+1002;Krasnany;1504
+1003;Kunerad;1038
+1004;Lietava;1451
+1005;Lietavska SvinnaBabkov;1736
+1006;Lutise;727
+1007;Lysica;821
+1008;Mala Cierna;356
+1009;Mojs;1041
+1010;Nededza;1023
+1011;Podhorie okres Zilina;901
+1012;Rajec;5824
+1013;Rajecka Lesna;1199
+1014;Rajecke Teplice;2985
+1015;Rosina;3165
+1016;Stranavy;1854
+1017;Stranske;816
+1018;Straza;674
+1019;Strecno;2558
+1020;Svedernik;1135
+1021;Teplicka nad Vahom;4200
+1022;Terchova;4079
+1023;Turie;1990
+1024;Varin;3816
+1025;Velka Cierna;357
+1026;Visnove okres Zilina;2800
+1027;Zbynov;857
+1028;Bitarova;739
+1029;Brezany;614
+1030;Hricovske Podhradie;354
+1031;Ovciarsko;623
+1032;Pastina Zavada;229
+1033;Lietavska Lucka;1823
+1034;Porubka okres Zilina;494
+1035;Durcina;1082
+1036;Klace;398
+1037;Nezbudska Lucka;390
+1038;Suja;318
+1039;Bytca;11320
+1040;Hvozdnica;1184
+1041;Jablonove okres Bytca;882
+1042;Kolarovice;1821
+1043;Kotesova;2000
+1044;MarsovaRasov;895
+1045;Petrovice;1576
+1046;Predmier;1376
+1047;SulovHradna;927
+1048;Stiavnik;4042
+1049;Velke Rovne;3762
+1050;Hlboke nad Vahom;947
+1051;Cadca;24431
+1052;Cierne;4403
+1053;Dlha nad Kysucou;622
+1054;Dunajov;1184
+1055;Klokocov okres Cadca;2324
+1056;Klubina;540
+1057;Korna;2038
+1058;Krasno nad Kysucou;6807
+1059;Makov;1744
+1060;Nova Bystrica;2762
+1061;Olesna;1951
+1062;Oscadnica;5682
+1063;Podvysoka;1336
+1064;Radostka;820
+1065;Rakova;5457
+1066;Skalite;5255
+1067;Stara Bystrica;2741
+1068;Staskov;2777
+1069;Svrcinovec;3534
+1070;Turzovka;7624
+1071;Vysoka nad Kysucou;2670
+1072;Zakopcie;1781
+1073;Zborov nad Bystricou;2256
+1074;Dolny Kubin;18995
+1075;Dlha nad Oravou;1398
+1076;Horna Lehota okres Dolny Kubin;552
+1077;Chlebnice;1628
+1078;Istebne;1344
+1079;Jasenova;416
+1080;Kralovany;436
+1081;Kriva;811
+1082;Lestiny;273
+1083;Malatina;815
+1084;Medzibrodie nad Oravou;525
+1085;Oravska Poruba;1037
+1086;Oravsky Podzamok;1372
+1087;Osadka;157
+1088;Parnica;878
+1089;Pokryvac;164
+1090;Pribis;453
+1091;Pucov;855
+1092;Sedliacka Dubova;525
+1093;Velicna;1240
+1094;Vysny Kubin;760
+1095;Zazriva;2662
+1096;Zaskov;1613
+1097;Bziny;571
+1098;Dolny Vadicov;481
+1099;Horny Vadicov;1628
+1100;Kysucke Nove Mesto;15229
+1101;Kysucky Lieskovec;2363
+1102;Lodno;994
+1103;Lopusne Pazite;464
+1104;Neslusa;3133
+1105;Ochodnica;1947
+1106;Povina;1167
+1107;Rudina;1804
+1108;Rudinka;387
+1109;Rudinska;988
+1110;Sneznica;985
+1111;Radola;1492
+1112;Konska okres Liptovsky Mikulas;212
+1113;Liptovsky Mikulas;31461
+1114;Benadikova;489
+1115;Bobrovcek;177
+1116;Bobrovec;1895
+1117;Bobrovnik;130
+1118;Bukovina;100
+1119;Demanovska Dolina;298
+1120;Dubrava okres Liptovsky Mikulas;1229
+1121;Galovany;269
+1122;Gotovany;456
+1123;Huty;178
+1124;Hybe;1485
+1125;Jakubovany okres Liptovsky Mikulas;374
+1126;Jalovec okres Liptovsky Mikulas;295
+1127;Jamnik okres Liptovsky Mikulas;443
+1128;Kralova Lehota;583
+1129;Kvacany okres Liptovsky Mikulas;543
+1130;Lazisko;403
+1131;Liptovska Anna;87
+1132;Liptovska Kokava;976
+1133;Liptovska Sielnica;602
+1134;Liptovske Beharovce;71
+1135;Liptovske Klacany;392
+1136;Liptovske Matiasovce;314
+1137;Liptovsky Hradok;7572
+1138;Liptovsky Jan;1073
+1139;Liptovsky Ondrej;616
+1140;Liptovsky Trnovec;551
+1141;Lubela;1106
+1142;Malatiny;225
+1143;Male Borove;136
+1144;Maluzina;249
+1145;Nizna Boca;163
+1146;Partizanska Lupca;1244
+1147;Pavcina Lehota;380
+1148;Pavlova Ves;255
+1149;Podturen;1057
+1150;Pribylina;1307
+1151;Prosiek;202
+1152;Smrecany;640
+1153;Svaty Kriz;811
+1154;Trstene;231
+1155;Uhorska Ves;485
+1156;Vavrisovo;697
+1157;Vazec;2379
+1158;Velke Borove;50
+1159;Veterna Poruba;378
+1160;Vlachy;601
+1161;Vychodna;2130
+1162;Vysna Boca;104
+1163;Zavazna Poruba;1281
+1164;Ziar okres Liptovsky Mikulas;455
+1165;Izipovce;89
+1166;Liptovska Porubka;1171
+1167;Liptovsky Peter;1352
+1168;Martin;55332
+1169;BelaDulice;1267
+1170;Benice;353
+1171;Blatnica;913
+1172;Bystricka;1468
+1173;Danova;555
+1174;Diakova;405
+1175;Dolny Kalnik;242
+1176;Drazkovce;971
+1177;Folkusova;144
+1178;Horny Kalnik;185
+1179;Karlova;102
+1180;Klastor pod Znievom;1588
+1181;Kostany nad Turcom;1330
+1182;Krpelany;1109
+1183;Laskar;142
+1184;Leziachov;162
+1185;Lipovec okres Martin;937
+1186;Necpaly;928
+1187;Nolcovo;255
+1188;Podhradie okres Martin;666
+1189;Pribovce;1094
+1190;Rakovo;368
+1191;Ratkovo;187
+1192;Sklabina;634
+1193;Sklabinsky Podzamok;193
+1194;Slovany;453
+1195;Socovce;245
+1196;Sucany;4681
+1197;Sutovo;503
+1198;Trebostovo;574
+1199;Trnovo;274
+1200;Turany;4291
+1201;Turcianska Stiavnicka;928
+1202;Turcianske Klacany;939
+1203;Turciansky Dur;176
+1204;Turciansky Peter;471
+1205;Valca;1667
+1206;Vricko;462
+1207;Zaborie;161
+1208;Zabokreky;1238
+1209;Turcianske Jaseno;381
+1210;Vrutky;7749
+1211;Babin;1434
+1212;Benadovo;849
+1213;Bobrov;1795
+1214;Breza;1628
+1215;Hrustin;3161
+1216;Klin;2419
+1217;Krusetnica;967
+1218;Lokca;2346
+1219;Lomna;901
+1220;Mutne;2946
+1221;Namestovo;7882
+1222;Novot;3533
+1223;Oravska Jasenica;1845
+1224;Oravska Lesna;3395
+1225;Oravska Polhora;3921
+1226;Oravske Vesele;2913
+1227;Rabca;4944
+1228;Rabcice;2011
+1229;Sihelne;2143
+1230;Tapesovo;708
+1231;Vasilov;823
+1232;Vavrecka;1464
+1233;Zakamenne;5423
+1234;Zubrohlava;2295
+1235;Ivachnova;604
+1236;Turik;241
+1237;Besenova;667
+1238;Hubova;1064
+1239;Kalameny;474
+1240;Komjatna;1503
+1241;Likavka;3057
+1242;Liptovska Luzna;2811
+1243;Liptovska Osada;1647
+1244;Liptovska Stiavnica;1142
+1245;Liptovska Tepla;1014
+1246;Liptovske Revuce;1555
+1247;Liptovsky Michal;300
+1248;Liskova;2108
+1249;Lubochna;1044
+1250;Lucky okres Ruzomberok;1787
+1251;Ludrova;1005
+1252;Martincek;430
+1253;Potok okres Ruzomberok;98
+1254;Ruzomberok;27077
+1255;Liptovske Sliace;3762
+1256;Stankovany;1179
+1257;Stiavnicka;775
+1258;Svosov;816
+1259;Valaska Dubova;782
+1260;Abramova;170
+1261;Blazovce;164
+1262;Bodorova;240
+1263;Borcova;148
+1264;Briestie;137
+1265;Budis;203
+1266;Cremosne;78
+1267;Dubove okres Turcianske Teplice;711
+1268;Haj okres Turcianske Teplice;455
+1269;Horna Stubna;1629
+1270;Ivancina;83
+1271;Jasenovo;139
+1272;Jazernica;323
+1273;Kalamenova;82
+1274;Liesno;56
+1275;Maly Cepcin;542
+1276;Moskovec;68
+1277;Mosovce;1335
+1278;Ondrasova;80
+1279;Raksa;225
+1280;Rudno;207
+1281;Sklene;735
+1282;Slovenske Pravno;921
+1283;Turcek;620
+1284;Turcianske Teplice;6418
+1285;Velky Cepcin;254
+1286;Velky Krtis;12119
+1287;Balog nad Iplom;828
+1288;Batorova;389
+1289;Brusnik;117
+1290;Busince;1440
+1291;Cebovce;1083
+1292;Celare;455
+1293;Celovce okres Velky Krtis;440
+1294;Cervenany;45
+1295;Dacov Lom;423
+1296;Dolinka;490
+1297;Dolna Strehova;1058
+1298;Dolne Plachtince;629
+1299;Dolne Strhare;184
+1300;Durkovce;138
+1301;Glabusovce;118
+1302;Horna Strehova;158
+1303;Horne Plachtince;202
+1304;Horne Strhare;248
+1305;Hrusov okres Velky Krtis;849
+1306;Chrastince;228
+1307;Chrtany;141
+1308;Ipelske Predmostie;634
+1309;Kamenne Kosihy;339
+1310;Kiarov;302
+1311;Klenany;276
+1312;Kolare;257
+1313;Kosihovce;576
+1314;Kosihy nad Iplom;415
+1315;Kovacovce;351
+1316;Lesenice;512
+1317;Luboriecka;142
+1318;Mala Calomija;211
+1319;Male Zlievce;293
+1320;Modry Kamen;1614
+1321;Mula;348
+1322;Nenince;1358
+1323;Nova Ves;408
+1324;Obeckov;481
+1325;Olovary;294
+1326;Opatovska Nova Ves;690
+1327;Opava;125
+1328;Potor;805
+1329;Pravica;118
+1330;Pribelce;572
+1331;Secianky;367
+1332;Selany;195
+1333;Senne okres Velky Krtis;216
+1334;Sklabina;930
+1335;Slovenske Darmoty;554
+1336;Slovenske Klacany;163
+1337;Stredne Plachtince;607
+1338;Suchan;270
+1339;Suche Brezovo;103
+1340;Sirakov;200
+1341;Sula;73
+1342;Trebusovce;188
+1343;Velka Calomija;597
+1344;Velka Ves nad Iplom;401
+1345;Velke Zlievce;504
+1346;Velky Lom;178
+1347;Vieska okres Velky Krtis;215
+1348;Vinica;1802
+1349;Vrbovka;342
+1350;Zahorce;667
+1351;Zavada okres Velky Krtis;491
+1352;Zombor;148
+1353;Zelovce;1267
+1354;Maly Krtis;528
+1355;Male Straciny;134
+1356;Velke Straciny;169
+1357;Zvolen;42688
+1358;Babina;544
+1359;Bacurov;173
+1360;Breziny;373
+1361;Budca;1321
+1362;Bzovska Lehotka;134
+1363;Dobra Niva;1882
+1364;Dubove okres Zvolen;267
+1365;Hronska Breznica;252
+1366;Kovacova okres Zvolen;1541
+1367;Lest vojensky obvod;35
+1368;Michalkova;30
+1369;Ocova;2594
+1370;Ostra Luka;305
+1371;Pliesovce;2358
+1372;Podzamcok;524
+1373;Sasa okres Zvolen;926
+1374;Sielnica;1442
+1375;Sliac;4977
+1376;Trnie;428
+1377;Turova;415
+1378;Zvolenska Slatina;2849
+1379;Zelezna Breznica;545
+1380;Lukavica okres Zvolen;203
+1381;Lieskovec okres Zvolen;1453
+1382;Velka Luka;671
+1383;HodrusaHamre;2206
+1384;Horne Hamre;635
+1385;Hrabicov;578
+1386;Hronsky Benadik;1178
+1387;Klak;206
+1388;Mala Lehota;867
+1389;Nova Bana;7415
+1390;Ostry Grun;504
+1391;Pila okres Zarnovica;141
+1392;Rudno nad Hronom;527
+1393;Tekovska Breznica;1236
+1394;Velka Lehota;1100
+1395;Velke Pole;399
+1396;Voznica;632
+1397;Zarnovica;6360
+1398;Zupkov;864
+1399;Orovnica;555
+1400;Brehy;1049
+1401;Ziar nad Hronom;19301
+1402;Bartosova Lehotka;369
+1403;Bzenica;579
+1404;Dolna Trnavka;343
+1405;Dolna Ves;244
+1406;Dolna Zdana;882
+1407;Hlinik nad Hronom;2882
+1408;Horna Zdana;546
+1409;Hronska Dubrava;423
+1410;Ihrac;534
+1411;Janova Lehota;955
+1412;Jastraba;542
+1413;Kopernica;427
+1414;Kosorin;429
+1415;Krahule;264
+1416;Kremnica;5356
+1417;Kremnicke Bane;261
+1418;Kunesov;222
+1419;Lehotka pod Brehmi;415
+1420;Lovca;685
+1421;LovcicaTrubin;1591
+1422;Lucky okres Ziar nad Hronon;207
+1423;Nevolne;405
+1424;Pitelova;622
+1425;Prestavlky;681
+1426;Prochot;553
+1427;Repiste;286
+1428;Sklene Teplice;398
+1429;Slaska;459
+1430;Stara Kremnicka;1108
+1431;Trnava Hora;1218
+1432;Vyhne;1221
+1433;Horna Ves okres Ziar nad Hronom;696
+1434;Ladomerska Vieska;779
+1435;Lutila;1328
+1436;Banska Bystrica;78635
+1437;Badin;1999
+1438;Balaze;217
+1439;Cerin;441
+1440;Dolna Micina;392
+1441;Dolny Harmanec;244
+1442;Donovaly;225
+1443;Dubravica;420
+1444;Harmanec;864
+1445;Hiadel;517
+1446;Horna Micina;619
+1447;Horne Prsany;394
+1448;Hrochot;1492
+1449;Brusno;2154
+1450;Kordiky;433
+1451;Kraliky;643
+1452;Lubietova;1211
+1453;Lucatin;656
+1454;Medzibrod;1367
+1455;Molca;374
+1456;Mostenica;224
+1457;Motycky;116
+1458;Oravce;180
+1459;Podkonice;885
+1460;Pohronsky Bukovec;105
+1461;Poniky;1569
+1462;Povraznik;143
+1463;Priechod;923
+1464;Riecka okres Banska Bystrica;802
+1465;SebedinBecov;368
+1466;Selce okres Banska Bystrica;2152
+1467;Slovenska Lupca;3238
+1468;Stare Hory;556
+1469;Strelniky;776
+1470;Spania Dolina;202
+1471;Tajov;637
+1472;Turecka;152
+1473;Kyncelova;366
+1474;Nemce;1158
+1475;Vlkanova;1315
+1476;Hronsek;669
+1477;Malachov;1092
+1478;Svaty Anton;1200
+1479;Badan;188
+1480;Banska Bela;1162
+1481;Banska Stiavnica;10193
+1482;Bansky Studenec;472
+1483;Beluj;120
+1484;Dekys;193
+1485;Ilija;345
+1486;Kozelnik;167
+1487;Mociar;161
+1488;Podhorie okres Banska Stiavnica;322
+1489;Pocuvadlo;95
+1490;Prencov;659
+1491;Stiavnicke Bane;839
+1492;Vysoka okres Banska Stiavnica;144
+1493;Bacuch;952
+1494;Benus;1159
+1495;Bravacovo;682
+1496;Brezno;21148
+1497;Cierny Balog;5181
+1498;Dolna Lehota;751
+1499;Drabsko;208
+1500;Helpa;2635
+1501;Horna Lehota okres Brezno;605
+1502;Hronec;1222
+1503;Jaraba;42
+1504;Jasenie;1179
+1505;Lom nad Rimavicou;269
+1506;Michalova;1353
+1507;Myto pod Dumbierom;516
+1508;Nemecka;1805
+1509;Osrblie;380
+1510;Podbrezova;3887
+1511;Pohorela;2233
+1512;Pohronska Polhora;1745
+1513;Polomka;2993
+1514;Predajna;1332
+1515;Raztoka;274
+1516;Sihla;186
+1517;Sumiac;1282
+1518;Telgart;1530
+1519;Valaska;3757
+1520;Valkovna;422
+1521;Zavadka nad Hronom;2379
+1522;Bystra okres Brezno;191
+1523;Latky;569
+1524;Podkrivan;582
+1525;Detva;14845
+1526;Detvianska Huta;703
+1527;Dubravy;932
+1528;Horny Tisovnik;184
+1529;Hrinova;7568
+1530;Klokoc;514
+1531;Krivan;1716
+1532;Slatinske Lazy;526
+1533;Stara Huta;338
+1534;Stozok;1003
+1535;Viglas;1639
+1536;Viglasska HutaKalinka;339
+1537;Korytarky;960
+1538;Bzovik;1137
+1539;Cerovo;595
+1540;Cabradsky Vrbovok;247
+1541;Cekovce;458
+1542;Devicie;308
+1543;Dolne Mladonice;129
+1544;Dolny Badin;258
+1545;Domaniky;192
+1546;Drazovce;135
+1547;Drienovo;107
+1548;Dudince;1439
+1549;Hontianske Moravce;857
+1550;Hontianske Nemce;1474
+1551;Hontianske Tesare;924
+1552;Horne Mladonice;165
+1553;Horny Badin;173
+1554;Jalsovik;188
+1555;Kozi Vrbovok;158
+1556;KralovceKrnisov;167
+1557;Krupina;7944
+1558;Lackov;97
+1559;Ladzany;286
+1560;Lisov;230
+1561;Litava;762
+1562;Medovarce;225
+1563;Rykyncice;284
+1564;Sebechleby;1217
+1565;Selce okres Krupina;96
+1566;Senohrad;785
+1567;Sudince;87
+1568;Sudovce;221
+1569;Terany;625
+1570;Trpin;115
+1571;Unatin;175
+1572;Zemiansky Vrbovok;98
+1573;Zibritov;63
+1574;Lucenec;28120
+1575;Abelova;222
+1576;Belina;627
+1577;Bolkovce;633
+1578;Budina;241
+1579;Buzitka;501
+1580;Cakanovce okres Lucenec;1169
+1581;Camovce;623
+1582;Divin;2074
+1583;Dobroc;628
+1584;Kotmanova;301
+1585;Filakovo;10694
+1586;Filakovske Kovace;922
+1587;Halic;1632
+1588;Holisa;665
+1589;Jelsovec;326
+1590;Kalonda;210
+1591;Lehotka;339
+1592;Lentvora;96
+1593;Lipovany;258
+1594;Lovinobana;2080
+1595;Luborec;346
+1596;Lupoc;232
+1597;Maskova;307
+1598;Mucin;768
+1599;Mytna;1192
+1600;Nitra nad Iplom;367
+1601;Nove Hony;178
+1602;Panicke Dravce;746
+1603;Pila okres Lucenec;255
+1604;Pincina;230
+1605;Ples;212
+1606;Podrecany;547
+1607;Polichno;144
+1608;Praha;79
+1609;Prsa;212
+1610;Radzovce;1553
+1611;Rapovce;952
+1612;Ratka;300
+1613;Ruzina;873
+1614;Stara Halic;676
+1615;Savol;549
+1616;Siatorska Bukovinka;310
+1617;Sid;1292
+1618;Surice;504
+1619;Tocnica;410
+1620;Tomasovce okres Lucenec;1374
+1621;Trebelovce;935
+1622;Tuhar;358
+1623;Velka nad Iplom;921
+1624;Velke Dravce;697
+1625;Vidina;1803
+1626;Biskupice;1134
+1627;Gregorova Vieska;145
+1628;Trenc;495
+1629;Bulhary;311
+1630;Mikusovce okres Lucenec;277
+1631;Breznicka okres Poltar;768
+1632;Cinobana;2265
+1633;Ceske Brezovo;497
+1634;Hradiste okres Poltar;245
+1635;Kalinovo;2193
+1636;Kokava nad Rimavicou;2899
+1637;Krna;51
+1638;Malinec;1485
+1639;Mladzovo;95
+1640;Ozdin;316
+1641;Poltar;5713
+1642;Rovnany;258
+1643;Soltyska;110
+1644;Uhorske;532
+1645;Velka Ves;445
+1646;Hrnciarska Ves;978
+1647;Hrnciarske Zaluzany;871
+1648;Selce okres Poltar;112
+1649;Susany;424
+1650;Dubakovo;82
+1651;Utekac;962
+1652;Zlatno okres Poltar;466
+1653;Drzkovce;571
+1654;Gemer;908
+1655;Gemerska Ves;975
+1656;Hrlica;76
+1657;Chvalova;204
+1658;Levkuska;241
+1659;Otrocok;323
+1660;Ploske okres Revuca;70
+1661;Polina;116
+1662;Rasice;116
+1663;Ratkova;612
+1664;Ratkovske Bystre;355
+1665;Rybnik okres Revuca;159
+1666;Skeresovo;228
+1667;Levare;89
+1668;Tornala;7281
+1669;Visnove okres Revuca;70
+1670;Ziar okres Revuca;139
+1671;Gemerske Teplice;381
+1672;Gemersky Sad;315
+1673;Hucin;917
+1674;Chyzne;437
+1675;Jelsava;3194
+1676;Kamenany;877
+1677;Licince;770
+1678;Lubenik;1327
+1679;Magnezitovce;474
+1680;Muran;1239
+1681;Muranska Dlha Luka;905
+1682;Muranska Huta;195
+1683;Muranska Lehota;207
+1684;Muranska Zdychava;244
+1685;Nandraz;282
+1686;Prihradzany;81
+1687;Rakos okres Revuca;431
+1688;Revuca;12344
+1689;Revucka Lehota;310
+1690;Sirk;1223
+1691;Sivetice;377
+1692;Turcok;281
+1693;Sasa okres Revuca;202
+1694;Mokra Luka;506
+1695;Rimavska Sobota;24134
+1696;Babinec;72
+1697;Barca;585
+1698;Batka;904
+1699;Belin;194
+1700;Blhovce;791
+1701;Bottovo;199
+1702;Budikovany;62
+1703;Cakov;317
+1704;Cerencany;564
+1705;Cierny Potok;145
+1706;Ciz;650
+1707;Dolne Zahorany;180
+1708;Drazice;274
+1709;Driencany;239
+1710;Drna;212
+1711;Dubno;167
+1712;Dubovec;544
+1713;Figa;453
+1714;Gemercek;99
+1715;Gemerske Dechtare;442
+1716;Gemersky Jablonec;697
+1717;Gortva;533
+1718;Hajnacka;1169
+1719;Hnusta;7562
+1720;Hodejov;1628
+1721;Hodejovec;187
+1722;Horne Zahorany;123
+1723;Hostice;1070
+1724;Hostisovce;252
+1725;Hrachovo;843
+1726;Hrusovo;177
+1727;Hubovo;137
+1728;Husina;550
+1729;Chanava;708
+1730;Chramec;454
+1731;Ivanice;277
+1732;Janice;257
+1733;Jesenske okres Rimavska Sobota;2242
+1734;Jestice;150
+1735;Kalosa;787
+1736;Kesovce;252
+1737;Klenovec;3162
+1738;Kociha;213
+1739;Konradovce;322
+1740;Kral;959
+1741;Kraskovo;133
+1742;Krokava;28
+1743;Kruzno;372
+1744;Kyjatice;79
+1745;Lehota nad Rimavicou;273
+1746;Lenartovce;557
+1747;Lenka;183
+1748;Lipovec okres Rimavska Sobota;108
+1749;Lukovistia;192
+1750;Martinova;198
+1751;Neporadza okres Rimavska Sobota;243
+1752;Nova Basta;495
+1753;Oravka;169
+1754;Ozdany;1642
+1755;Padarovce;190
+1756;Pavlovce okres Rimavska Sobota;403
+1757;Petrovce okres Rimavska Sobota;226
+1758;Poproc okres Rimavska Sobota;23
+1759;Potok okres Rimavska Sobota;27
+1760;Radnovce;902
+1761;Ratkovska Lehota;52
+1762;Ratkovska Sucha;50
+1763;Rimavska Bana;547
+1764;Rimavska Sec;2089
+1765;Rimavske Brezovo;528
+1766;Rimavske Janovce;1354
+1767;Rovne okres Rimavska Sobota;130
+1768;Rumince;369
+1769;Slizke;226
+1770;Stara Basta;308
+1771;Stranska;354
+1772;Studena;268
+1773;Sutor;576
+1774;Simonovce;577
+1775;Sirkovce;981
+1776;Spanie Pole;85
+1777;Strkovec;391
+1778;Tachty;535
+1779;Teply Vrch;275
+1780;Tisovec;4176
+1781;Tomasovce okres Rimavska Sobota;195
+1782;Uzovska Panica;786
+1783;Vcelince;798
+1784;Vecelkov;240
+1785;Velke Teriakovce;889
+1786;Velky Blh;1201
+1787;Vieska nad Blhom;167
+1788;Vlkyna;403
+1789;Valice;317
+1790;Vysny Skalnik;144
+1791;Zador;145
+1792;Zip;252
+1793;Abovce;624
+1794;Riecka okres Rimavska Sobota;232
+1795;Nizny Skalnik;185
+1796;Rimavske Zaluzany;346
+1797;Rakytnik;318
+1798;Gemerske Michalovce;98
+1799;Vysne Valice;270
+1800;Dulovo;250
+1801;Zacharovce;406
+1802;Stara Lubovna;16333
+1803;Circ;1265
+1804;Durkova;244
+1805;Forbasy;423
+1806;Hajtovka;71
+1807;Haligovce;631
+1808;Hniezdne;1444
+1809;Hranicne;185
+1810;Hromos;504
+1811;Chmelnica;1011
+1812;Jakubany;2787
+1813;Jarabina;912
+1814;Kamienka okres Stara Lubovna;1368
+1815;Kolackov;1333
+1816;Kremna;96
+1817;Kyjov;768
+1818;Lackova;161
+1819;Legnava;111
+1820;Lesnica;487
+1821;Litmanova;643
+1822;Lomnicka;3181
+1823;Lubotin;1340
+1824;Maly Lipnik;464
+1825;Matysova;72
+1826;Mnisek nad Popradom;654
+1827;Nizne Ruzbachy;632
+1828;Nova Lubovna;2993
+1829;Obrucne;30
+1830;Orlov;621
+1831;Plavec;1811
+1832;Plavnica;1655
+1833;Podolinec;3187
+1834;Puste Pole;222
+1835;Ruska Vola nad Popradom;99
+1836;Starina;40
+1837;Stranany;191
+1838;Sulin;337
+1839;Sambron;386
+1840;Sarisske Jastrabie;1406
+1841;Udol;385
+1842;Velka Lesna;477
+1843;Velky Lipnik;975
+1844;Vislanka;258
+1845;Vysne Ruzbachy;1424
+1846;Bana;170
+1847;Breznica;823
+1848;Breznicka okres Stropkov;127
+1849;Brusnica;416
+1850;Bukovce;535
+1851;Bystra okres Stropkov;27
+1852;Bzany;163
+1853;Duplin;529
+1854;Gribov;192
+1855;Havaj;395
+1856;Chotca;623
+1857;Jakusovce;42
+1858;Kolbovce;195
+1859;Korunkova;82
+1860;Kozuchovce;60
+1861;Krislovce;31
+1862;Krusinec;250
+1863;Lomne;238
+1864;Makovce;152
+1865;Mala Polana;116
+1866;Mikova;147
+1867;Minovce;336
+1868;Mrazovce;81
+1869;Nizna Olsava;429
+1870;Olsavka okres Stropkov;215
+1871;Potocky;71
+1872;Potoky;90
+1873;Krucov;219
+1874;Solnik;34
+1875;Staskovce;249
+1876;Stropkov;10669
+1877;Sandal;316
+1878;Tisinec;438
+1879;Tokajik;102
+1880;Turany nad Ondavou;372
+1881;Varechovce;156
+1882;Velkrop;224
+1883;Vislava;196
+1884;Vladica;66
+1885;Vojtovce;105
+1886;Vyskovce;129
+1887;Vysna Olsava;647
+1888;Vysny Hrabovec;187
+1889;Giraltovce;4126
+1890;Kalniste;547
+1891;Kobylnice;94
+1892;Kracunovce;1224
+1893;Kukova;734
+1894;Lucka okres Svidnik;523
+1895;Luzany pri Topli;259
+1896;Micakovce;137
+1897;Zeleznik;455
+1898;Zelmanovce;332
+1899;Svidnik;11206
+1900;Belejovce;18
+1901;Benadikovce;210
+1902;Bodruzal;67
+1903;Cernina;602
+1904;Cigla;88
+1905;Dlhona;83
+1906;Dobroslava;27
+1907;Dubova okres Svidnik;222
+1908;Fijas;151
+1909;Havranec;11
+1910;Hrabovcik;339
+1911;Hunkovce;335
+1912;Jurkova Vola;88
+1913;Kapisova;425
+1914;Keckovce;252
+1915;Korejovce;84
+1916;Krajna Bystra;432
+1917;Krajna Polana;211
+1918;Krajna Porubka;46
+1919;Krajne Cierno;76
+1920;Kruzlova;684
+1921;Kurimka;386
+1922;Ladomirova;1025
+1923;Matovce;123
+1924;Medvedie;45
+1925;Mestisko;458
+1926;Mirola;58
+1927;Mlynarovce;220
+1928;Nizna Jedlova;86
+1929;Nizna Pisana;86
+1930;Nizny Komarnik;176
+1931;Nizny Mirosov;254
+1932;Nizny Orlik;310
+1933;Nova Polianka;72
+1934;Okruhle;631
+1935;Prikra;7
+1936;Pstrina;60
+1937;Radoma;433
+1938;Rakovcik;172
+1939;Rovne okres Svidnik;484
+1940;Roztoky;410
+1941;Sobos;135
+1942;Strocin;565
+1943;Svidnicka;142
+1944;Sarbov;10
+1945;Sarissky Stiavnik;285
+1946;Semetkovce;82
+1947;Stefurov;114
+1948;Vagrinec;124
+1949;Valkovce;214
+1950;Vapenik;41
+1951;Vysna Jedlova;182
+1952;Vysna Pisana;72
+1953;Vysny Komarnik;67
+1954;Vysny Mirosov;598
+1955;Vysny Orlik;366
+1956;Dukovce;264
+1957;Holcikovce;432
+1958;Jasenovce;218
+1959;Jastrabie nad Toplou;472
+1960;Juskova Vola;314
+1961;Kamenna Poruba okres Vranov nad Toplou;1369
+1962;Kladzany;534
+1963;Komarany;486
+1964;Kucin okres Vranov nad Toplou;518
+1965;Kvakovce;432
+1966;Majerovce;434
+1967;Mala Domasa;531
+1968;Matiaska;279
+1969;Medzianky;285
+1970;Mernik;603
+1971;Michalok;295
+1972;Nizny Hrabovec;1646
+1973;Nizny Hrusov;1559
+1974;Nizny Krucov;411
+1975;Nova Kelca;386
+1976;Ondavske Matiasovce;812
+1977;Pavlovce okres Vranov nad Toplou;787
+1978;Petkovce;150
+1979;Petrovce okres Vranov nad Toplou;444
+1980;Piskorovce;128
+1981;Posa;936
+1982;Prosacov;231
+1983;Radvanovce;210
+1984;Rafajovce;182
+1985;Remeniny;293
+1986;Rudlov;684
+1987;Ruska Vola;82
+1988;Vysny Kazimir;191
+1989;Sacurov;2396
+1990;Secovska Polianka;2760
+1991;Sedliska;1443
+1992;Skrabske;775
+1993;Slovenska Kajna;771
+1994;Sol;2544
+1995;Stefanovce okres Vranov nad Toplou;115
+1996;Tovarne;980
+1997;Tovarnianska Polianka;119
+1998;Vavrinec;60
+1999;Vechec;2895
+2000;Vlaca;236
+2001;Vysny Zipov;1161
+2002;Zamutov;3189
+2003;Zlatnik;75
+2004;Zalobin;856
+2005;Vranov nad Toplou;22682
+2006;Babie;234
+2007;Banske;1844
+2008;Benkovce;543
+2009;Bystre;2697
+2010;Cabov;397
+2011;Caklov;2586
+2012;Cicava;1267
+2013;Cierne nad Toplou;749
+2014;Dapalovce;446
+2015;Davidov;784
+2016;Detrik;55
+2017;Dlhe Klcovo;1400
+2018;Durdos;258
+2019;Giglovce;133
+2020;Girovce;58
+2021;Hanusovce nad Toplou;3773
+2022;Hermanovce nad Toplou;712
+2023;Hlinne;1825
+2024;Hencovce;1345
+2025;Vaniskovce;377
+2026;Bardejov;32699
+2027;Abrahamovce okres Bardejov;366
+2028;Andrejova;365
+2029;Bartosovce;717
+2030;Becherov;281
+2031;Beloveza;813
+2032;Bogliarka;115
+2033;Brezov;373
+2034;Brezovka;113
+2035;Buclovany;208
+2036;Cigelka;570
+2037;Dubinne;357
+2038;Fricka;327
+2039;Frickovce;736
+2040;Gaboltov;510
+2041;Gerlachov okres Bardejov;1051
+2042;Hankovce okres Bardejov;418
+2043;Harhaj;266
+2044;Hazlin;1133
+2045;Hertnik;1018
+2046;Hervartov;506
+2047;Hrabovec;520
+2048;Hrabske;614
+2049;Hutka;92
+2050;Chmelova;379
+2051;Janovce;451
+2052;Jedlinka;86
+2053;Klusov;1092
+2054;Kobyly;863
+2055;Kochanovce okres Bardejov;253
+2056;Komarov;445
+2057;Koprivnica;692
+2058;Kozany;114
+2059;Krive;223
+2060;Krize;70
+2061;Kruzlov;1024
+2062;Kucin okres Bardejov;330
+2063;Kurima;1133
+2064;Kurov;615
+2065;Lascov;566
+2066;Lenartov;1124
+2067;Lipova okres Bardejov;71
+2068;Livov;80
+2069;Livovska Huta;47
+2070;Lopuchov;329
+2071;Lukavica okres Bardejov;378
+2072;Lukov;634
+2073;Malcov;1596
+2074;Marhan;966
+2075;Mikulasova;132
+2076;Mokroluh;754
+2077;Nemcovce okres Bardejov;248
+2078;Nizna Polianka;233
+2079;Nizna Vola;289
+2080;Nizny Tvarozec;521
+2081;Olsavce;179
+2082;Ondavka;15
+2083;Ortutova;175
+2084;Osikov;985
+2085;Petrova;865
+2086;Poliakovce;369
+2087;Porubka okres Bardejov;227
+2088;Regetovka;31
+2089;Resov;306
+2090;Richvald;996
+2091;Rokytov;556
+2092;Smilno;706
+2093;Snakov;683
+2094;Stebnicka Huta;227
+2095;Stebnik;296
+2096;Stulany;563
+2097;Sverzov;606
+2098;Sarisske Cierne;308
+2099;Sasova;146
+2100;Siba;615
+2101;Tarnov;382
+2102;Trocany;295
+2103;Varadka;206
+2104;Vysna Polianka;115
+2105;Vysna Vola;395
+2106;Raslavice;2744
+2107;Vysny Krucov;146
+2108;Vysny Tvarozec;126
+2109;Zborov;3433
+2110;Zlate;763
+2111;Humenne;33660
+2112;Adidovce;209
+2113;Baskovce okres Humenne;429
+2114;Brekov;1331
+2115;Brestov okres Humenne;604
+2116;Cernina;178
+2117;Dedacov;168
+2118;Hankovce okres Humenne;535
+2119;Hrabovec nad Laborcom;528
+2120;Hrubov;489
+2121;Hudcovce;413
+2122;Rokytov pri Humennom;293
+2123;Chlmec;579
+2124;Jablon;405
+2125;Jankovce;269
+2126;Kamenica nad Cirochou;2343
+2127;Kamienka okres Humenne;535
+2128;Karna;457
+2129;Kochanovce okres Humenne;763
+2130;Koskovce;603
+2131;Lieskovec okres Humenne;435
+2132;Lubisa;804
+2133;Lukacovce;465
+2134;Modra nad Cirochou;1012
+2135;Myslina;586
+2136;Nechvalova Polianka;77
+2137;Nizna Jablonka;186
+2138;Nizne Ladickovce;356
+2139;Ohradzany;643
+2140;Papin;965
+2141;Porubka okres Humenne;266
+2142;Pticie;641
+2143;Rovne okres Humenne;440
+2144;Slovenska Volova;557
+2145;Slovenske Krive;123
+2146;Topolovka;806
+2147;Turcovce;301
+2148;Udavske;1216
+2149;Velopolie;363
+2150;Vitazovce;306
+2151;Vysna Jablonka;56
+2152;Vysne Ladickovce;197
+2153;Vysny Hrusov;492
+2154;Zavadka okres Humenne;541
+2155;Zbudske Dlhe;720
+2156;Zubne;359
+2157;Kosarovce;622
+2158;Nizna Sitnica;320
+2159;Pakostov;436
+2160;Pritulany;51
+2161;Rohoznik okres Humenne;36
+2162;Ruska Kajna;111
+2163;Ruska Poruba;229
+2164;Vysna Sitnica;371
+2165;Zavada okres Humenne;72
+2166;Jasenov okres Humenne;1188
+2167;Hazin nad Cirochou;671
+2168;Sopkovce;106
+2169;Gruzovce;125
+2170;Maskovce;59
+2171;Lackovce;744
+2172;Abrahamovce okres Kezmarok;265
+2173;Busovce;301
+2174;Cerveny Klastor;232
+2175;Havka;47
+2176;Holumnica;876
+2177;Hradisko;98
+2178;Huncovce;3121
+2179;Ihlany;1512
+2180;Jezersko;94
+2181;Jurske;1192
+2182;Kezmarok;16562
+2183;Krizova Ves;2202
+2184;Lechnica;242
+2185;Lendak;5235
+2186;Majere;109
+2187;Lubica;4464
+2188;Matiasovce;803
+2189;Mlynceky;663
+2190;Osturna;310
+2191;Podhorany okres Kezmarok;2766
+2192;Rakusy;3180
+2193;Relov;361
+2194;Slovenska Ves;1871
+2195;Spisska Bela;6619
+2196;Spisska Stara Ves;2279
+2197;Spisske Hanusovce;781
+2198;Stara Lesna;1010
+2199;Strane pod Tatrami;2437
+2200;Toporec;1922
+2201;Tvarozna;723
+2202;Velka Frankova;343
+2203;Velka Lomnica;4735
+2204;Vlkova;760
+2205;Vlkovce;471
+2206;Vojnany;299
+2207;Vrbov;1489
+2208;Vyborna;1217
+2209;Zalesie okres Kezmarok;86
+2210;Zakovce;883
+2211;Mala Frankova;186
+2212;Maly Slavkov;1010
+2213;Baldovce;180
+2214;Beharovce;163
+2215;Bijacovce;955
+2216;Brutovce;183
+2217;Buglovce;263
+2218;Dlhe Straze;580
+2219;Dolany okres Levoca;696
+2220;Domanovce;931
+2221;Dravce;822
+2222;Dubrava okres Levoca;324
+2223;GrancPetrovce;598
+2224;Harakovce;59
+2225;Vysne Repase;98
+2226;Vysny Slavkov;265
+2227;Jablonov;1008
+2228;Klcov;637
+2229;Kurimany;362
+2230;Levoca;14800
+2231;Lucka okres Levoca;121
+2232;Nemesany;413
+2233;Nizne Repase;175
+2234;Olsavica;270
+2235;Ordzovany;164
+2236;Pavlany;52
+2237;Polanovce;173
+2238;Pongracovce;117
+2239;Spisske Podhradie;4022
+2240;Spissky Hrhov;1525
+2241;Spissky Stvrtok;2484
+2242;Studenec;489
+2243;Torysky;337
+2244;Uloza;197
+2245;Korytne;90
+2246;Brestov nad Laborcom;108
+2247;Cabalovce;361
+2248;Cabiny;358
+2249;Certizne;339
+2250;Habura;505
+2251;Kalinov;260
+2252;Krasny Brod;479
+2253;Medzilaborce;6654
+2254;Nagov;422
+2255;Olka;291
+2256;Olsinkov;27
+2257;Palota;188
+2258;Radvan nad Laborcom;570
+2259;Repejov;118
+2260;Roskovce;172
+2261;Sukov;147
+2262;Svetlice;109
+2263;Valentovce;43
+2264;Volica;289
+2265;Vyrava;190
+2266;Zbojne;173
+2267;Zbudska Bela;132
+2268;Rokytovce;184
+2269;Poprad;51750
+2270;Batizovce;2365
+2271;Ganovce;1377
+2272;Gerlachov okres Poprad;840
+2273;Horka;1946
+2274;Hozelec;802
+2275;Hranovnica;3103
+2276;Janovce okres Poprad;1662
+2277;Kravany okres Poprad;908
+2278;Liptovska Teplicka;2440
+2279;Lucivna;986
+2280;Mengusovce;677
+2281;Mlynica;531
+2282;Nova Lesna;1642
+2283;Spisska Teplica;2267
+2284;Spisske Bystre;2544
+2285;Spissky Stiavnik;2842
+2286;Svit;7748
+2287;Strba;3494
+2288;Svabovce;1502
+2289;Velky Slavkov;1366
+2290;Vernar;571
+2291;Vikartovce;1872
+2292;Vydrnik;1212
+2293;Sunava;1963
+2294;Zdiar;1368
+2295;Stola;536
+2296;Vysoke Tatry;4069
+2297;Tatranska Javorina;213
+2298;Haniska okres Presov;686
+2299;Lubotice;3274
+2300;Presov;89618
+2301;Abranovce;677
+2302;Bajerov;441
+2303;Bertotovce;491
+2304;Brestov okres Presov;439
+2305;Bretejovce;395
+2306;Brezany;179
+2307;Bzenov;769
+2308;Celovce okres Presov;332
+2309;Cervenica;945
+2310;Demjata;1076
+2311;Drienov;2217
+2312;Drienovska Nova Ves;820
+2313;Dulova Ves;960
+2314;Fintice;2021
+2315;Fricovce;1143
+2316;Fulianka;379
+2317;Geraltov;126
+2318;Gregorovce;822
+2319;Hendrichovce;234
+2320;Hermanovce;1910
+2321;Hrabkov;698
+2322;Chmelov;1006
+2323;Chmelovec;441
+2324;Chminianska Nova Ves;1299
+2325;Chminianske Jakubovany;2269
+2326;Chminany;947
+2327;Janov;337
+2328;Janovik;308
+2329;Kapusany;2228
+2330;Kendice;1985
+2331;Klenov;234
+2332;Kojatice;1116
+2333;Kokosovce;840
+2334;Krizovany;372
+2335;Kvacany okres Presov;293
+2336;Lada;847
+2337;Lazany;186
+2338;Lemesany;1934
+2339;Lesicek;383
+2340;Licartovce;989
+2341;Lipovce;517
+2342;Lubovec;502
+2343;Lucina;171
+2344;Maly Slivnik;932
+2345;Maly Saris;1656
+2346;Miklusovce;315
+2347;Mirkovce;1308
+2348;Mosurov;185
+2349;Nemcovce okres Presov;473
+2350;Okruzna;472
+2351;Ondrasovce;55
+2352;Ovcie;664
+2353;Petrovany;1932
+2354;Podhorany okres Presov;807
+2355;Podhradik;386
+2356;Proc;414
+2357;Pusovce;533
+2358;Radatice;800
+2359;Rokycany;1053
+2360;Ruska Nova Ves;1198
+2361;Sedlice;1046
+2362;Seniakovce;136
+2363;Svinia;2214
+2364;Sarisska Poruba;607
+2365;Sarisska Trstena;362
+2366;Sarisske Bohdanovce;830
+2367;Sindliar;546
+2368;Siroke;2481
+2369;Stefanovce okres Presov;216
+2370;Teriakovce;730
+2371;Terna;1278
+2372;Trnkov;235
+2373;Tuhrina;478
+2374;Tulcik;1319
+2375;Varhanovce;1458
+2376;Velky Slivnik;343
+2377;Velky Saris;6065
+2378;Vitaz;2034
+2379;Vysna Sebastova;1248
+2380;Zaborske;792
+2381;Zahradne;996
+2382;Zlata Bana;460
+2383;Zehna;1149
+2384;Zipov;290
+2385;Zupcany;1543
+2386;Medzany;877
+2387;Lipniky;489
+2388;Sucha Dolina;196
+2389;Bajerovce;295
+2390;Bodovce;346
+2391;Brezovica okres Sabinov;1708
+2392;Brezovicka;412
+2393;Cervena Voda;504
+2394;Cervenica pri Sabinove;902
+2395;Dacov;744
+2396;Daletice;98
+2397;Drienica;740
+2398;Dubovica;1475
+2399;Hanigovce;130
+2400;Hubosovce;519
+2401;Jakovany;357
+2402;Jakubova Vola;410
+2403;Jakubovany okres Sabinov;966
+2404;Jarovnice;6467
+2405;Kamenica;1806
+2406;Krasna Luka;700
+2407;Krivany;1228
+2408;Lipany;6439
+2409;Lucka okres Sabinov;694
+2410;Lutina;497
+2411;Milpos;675
+2412;Nizny Slavkov;857
+2413;Olejnikov;472
+2414;Olsov;392
+2415;Ostrovany;2048
+2416;Pecovska Nova Ves;2732
+2417;Poloma;955
+2418;Ratvaj;140
+2419;Raznany;1529
+2420;Rencisov;171
+2421;Rozkovany;1340
+2422;Sabinov;12709
+2423;Sarisske Dravce;1202
+2424;Sarisske Michalany;2873
+2425;Sarisske Sokolovce;574
+2426;Tichy Potok;329
+2427;Torysa;1534
+2428;Uzovce;526
+2429;Uzovske Peklany;454
+2430;Uzovsky Salgov;616
+2431;Vysoka okres Sabinov;129
+2432;Bela nad Cirochou;3380
+2433;Brezovec;42
+2434;Cukalovce;167
+2435;Dlhe nad Cirochou;1958
+2436;Dubrava okres Snina;226
+2437;Hostovice;289
+2438;Hrabova Roztoka;65
+2439;Jalova;66
+2440;Kalna Roztoka;560
+2441;Klenova;506
+2442;Kolbasov;79
+2443;Kolonica;567
+2444;Ladomirov;274
+2445;Michajlov;87
+2446;Nova Sedlica;277
+2447;Osadne;160
+2448;Parihuzovce;27
+2449;Pcoline;562
+2450;Pichne;571
+2451;Prislop;57
+2452;Runina;81
+2453;Ruska Volova;99
+2454;Rusky Potok;137
+2455;Snina;20031
+2456;Stakcinska Roztoka;336
+2457;Stakcin;2449
+2458;Strihovce;152
+2459;Smigovec;88
+2460;Topola;150
+2461;Ubla;775
+2462;Ulic;877
+2463;Ulicske Krive;259
+2464;Zboj;327
+2465;Zemplinske Hamre;1264
+2466;Spisska Nova Ves;37472
+2467;Arnutovce;782
+2468;Betlanovce;701
+2469;Bystrany;3442
+2470;Danisovce;552
+2471;Harichovce;1875
+2472;Hincovce;233
+2473;Hnilcik;556
+2474;Hnilec;427
+2475;Hrabusice;2486
+2476;Zehra;2360
+2477;Chrast nad Hornadom;884
+2478;Iliasovce;969
+2479;Jamnik okres Spisska Nova Ves;1185
+2480;Kalava;404
+2481;Kolinovce;571
+2482;Krompachy;8848
+2483;Letanovce;2293
+2484;Lieskovany;341
+2485;Markusovce;4406
+2486;Matejovce nad Hornadom;520
+2487;Mlynky;554
+2488;Odorin;957
+2489;Olcnava;1076
+2490;Olsavka okres Spisska Nova Ves;194
+2491;Porac;959
+2492;Rudnany;4423
+2493;Slatvina;329
+2494;Slovinky;1866
+2495;Spisske Tomasovce;1986
+2496;Spisske Vlachy;3536
+2497;Spissky Hrusov;1261
+2498;Teplicka;1158
+2499;Vitkovce;610
+2500;Vojkovce;428
+2501;Smizany;8674
+2502;Mala Trna;399
+2503;Velka Trna;447
+2504;Klin nad Bodrogom;205
+2505;Stanca;417
+2506;Trebisov;24557
+2507;Backa;630
+2508;Backov;680
+2509;Bara;293
+2510;Biel;1430
+2511;Svata Maria;571
+2512;Bol;749
+2513;Borsa;1163
+2514;Botany;1241
+2515;Brehov;606
+2516;Brezina;667
+2517;Bysta;159
+2518;Cejkov;1191
+2519;Celovce;544
+2520;Cerhov;757
+2521;Cernochov;202
+2522;Cierna;466
+2523;Cierna nad Tisou;3651
+2524;Dargov;595
+2525;Dobra;483
+2526;Dvorianky;618
+2527;Egres;471
+2528;Hran;1594
+2529;Hrcel;1061
+2530;Hriadky;460
+2531;Kasov;286
+2532;Kazimir;865
+2533;Kozuchov;209
+2534;Kralovsky Chlmec;7580
+2535;Kravany okres Trebisov;356
+2536;Kuzmice okres Trebisov;1705
+2537;Kysta;385
+2538;Ladmovce;313
+2539;Lastovce;1197
+2540;Leles;1771
+2541;Luhyna;317
+2542;Male Ozorovce;528
+2543;Male Trakany;1096
+2544;Maly Hores;1102
+2545;Maly Kamenec;439
+2546;Michalany;1937
+2547;Nizny Zipov;1499
+2548;Novosad;1013
+2549;Novy Ruskov;636
+2550;Plechotice;791
+2551;Svatuse;801
+2552;Polany;526
+2553;Parchovany;1912
+2554;Pribenik;1009
+2555;Rad;531
+2556;Secovce;8419
+2557;Sirnik;575
+2558;Slivnik;766
+2559;Slovenske Nove Mesto;1090
+2560;Solnicka;231
+2561;Somotor;1478
+2562;Stankovce;167
+2563;Strazne;609
+2564;Streda nad Bodrogom;2268
+2565;Svinice;222
+2566;Trnavka okres Trebisov;184
+2567;Velaty;842
+2568;Velke Ozorovce;754
+2569;Velke Trakany;1433
+2570;Velky Hores;1060
+2571;Velky Kamenec;772
+2572;Vinicky;503
+2573;Visnov;227
+2574;Vojcice;2186
+2575;Vojka;489
+2576;Zatin;803
+2577;Zbehnov;353
+2578;Zemplin;375
+2579;Zemplinska Nova Ves;893
+2580;Zemplinska Teplica;1683
+2581;Zemplinske Hradiste;1146
+2582;Zemplinske Jastrabie;668
+2583;Zemplinsky Branc;490
+2584;Gelnica;6124
+2585;Helcmanovce;1434
+2586;Henclova;107
+2587;Zavadka okres Gelnica;616
+2588;Zakarovce;745
+2589;Hrisovce;312
+2590;Jaklovce;1891
+2591;Kluknava;1573
+2592;Kojsov;708
+2593;Margecany;1941
+2594;Mnisek nad Hnilcom;1772
+2595;Nalepkovo;3351
+2596;Prakovce;3344
+2597;Richnava;2878
+2598;Smolnicka Huta;481
+2599;Smolnik;1041
+2600;Stara Voda;213
+2601;Svedlar;2131
+2602;Uhorna;143
+2603;Velky Folkmar;917
+2604;Kosice  mestska cast Kavecany;1287
+2605;Kosice  mestska cast Tahanovce;2510
+2606;Kosice  mestska cast Sever;20110
+2607;Kosice  mestska cast Stare Mesto;20790
+2608;Kosice  mestska cast Sidlisko Tahanovce;22576
+2609;Kosice  mestska cast Dzungla;677
+2610;Kosice  mestska cast Lorincik;654
+2611;Kosice  mestska cast Peres;1884
+2612;Kosice  mestska cast Myslava;2180
+2613;Kosice  mestska cast Zapad;40092
+2614;Kosice  mestska cast Saca;5809
+2615;Kosice  mestska cast Polov;1190
+2616;Kosice  mestska cast Sidlisko KVP;24069
+2617;Kosice  mestska cast Lunik IX;6347
+2618;Kosice  m c Dargovskych hrdinov;26319
+2619;Kosice  mestska cast Kosicka Nova Ves;2660
+2620;Kosice  mestska cast Barca;3584
+2621;Kosice  mestska cast Sebastovce;732
+2622;Kosice  mestska cast Krasna;5213
+2623;Kosice  mestska cast Nad jazerom;24957
+2624;Kosice  mestska cast Juh;23070
+2625;Kosice  mestska cast Vysne Opatske;2431
+2626;Hostovce okres Kosice  okolie;189
+2627;Slancik;212
+2628;Haj okres Kosice  okolie;280
+2629;Nizna Hutka;583
+2630;Backovik;549
+2631;Baska;601
+2632;Belza;410
+2633;Beniakovce;707
+2634;Bidovce;1530
+2635;Blazice;616
+2636;Bohdanovce;1063
+2637;Boliarov;875
+2638;Budimir;1194
+2639;Bukovec okres Kosice  okolie;822
+2640;Bunetice;92
+2641;Buzica;1202
+2642;Cestice;841
+2643;Cakanovce okres Kosice  okolie;678
+2644;Cana;5836
+2645;Cecejovce;2153
+2646;Cizatice;395
+2647;Debrad;398
+2648;Drienovec;2248
+2649;Druzstevna pri Hornade;2726
+2650;Durdosik;537
+2651;Durkov;1815
+2652;Geca;1707
+2653;Gynov;643
+2654;Hacava;221
+2655;Haniska okres Kosice  okolie;1480
+2656;Herlany;294
+2657;Hodkovce;313
+2658;Hrasovik;348
+2659;Hylov;506
+2660;Chrastne;544
+2661;Janik;633
+2662;Jasov;3557
+2663;Kalsa;722
+2664;Kecerovce;3389
+2665;Kecerovsky Lipovec;115
+2666;KoksovBaksa;1207
+2667;Komarovce;382
+2668;Kosicka Bela;993
+2669;Kosicka Polianka;1006
+2670;Kosicke Olsany;1294
+2671;Kosicky Klecenov;275
+2672;Kralovce;1134
+2673;Kysak;1457
+2674;Mala Ida;1573
+2675;Mala Lodina;173
+2676;Medzev;4413
+2677;Mokrance;1359
+2678;Moldava nad Bodvou;11293
+2679;Mudrovce;70
+2680;Nizna Kamenica;562
+2681;Nizna Mysla;1700
+2682;Nizny Caj;269
+2683;Nizny Klatov;798
+2684;Nizny Lanec;442
+2685;Turnianska Nova Ves;339
+2686;Novacany;762
+2687;Nova Polhora;452
+2688;Novy Salas;224
+2689;Obisovce;438
+2690;Olsovany;638
+2691;Opatka;96
+2692;Opina;187
+2693;Panovce;595
+2694;Peder;399
+2695;PerinChym;1457
+2696;Ploske okres Kosice  okolie;906
+2697;Poproc okres Kosice  okolie;2745
+2698;Rakos okres Kosice  okolie;345
+2699;Rankovce;857
+2700;Resica;315
+2701;Rozhanovce;2480
+2702;Rudnik okres Kosice  okolie;615
+2703;Ruskov;1457
+2704;Sady nad Torysou;1961
+2705;Sena;2150
+2706;Skaros;1118
+2707;Slanec;1465
+2708;Slanska Huta;249
+2709;Slanske Nove Mesto;478
+2710;Sokol;1182
+2711;Svinica;886
+2712;Semsa;813
+2713;Stos;739
+2714;Trebejov;203
+2715;Trstany;292
+2716;Trstene pri Hornade;1553
+2717;Vajkovce;868
+2718;Valaliky;4367
+2719;Velka Ida;3656
+2720;Velka Lodina;283
+2721;Vtackovce;1106
+2722;Vysna Hutka;455
+2723;Vysna Kamenica;278
+2724;Vysna Mysla;969
+2725;Vysny Caj;293
+2726;Vysny Klatov;442
+2727;Zlata Idka;400
+2728;Zarnov;409
+2729;Zdana;1402
+2730;Kechnec;1170
+2731;Turna nad Bodvou;3588
+2732;Bociar;257
+2733;Sokolany;1339
+2734;DvornikyVcelare;475
+2735;Zadiel;164
+2736;Milhost;393
+2737;Vysny Medzev;522
+2738;Kostolany nad Hornadom;1251
+2739;Chorvaty;94
+2740;Budince;217
+2741;Michalovce;39351
+2742;Bajany;472
+2743;Banovce nad Ondavou;729
+2744;Bracovce;948
+2745;Budkovce;1510
+2746;Cecehov;377
+2747;Dubravka;681
+2748;Falkusovce;674
+2749;Hatalov;757
+2750;Hazin;479
+2751;Hnojne;224
+2752;Horovce okres Michalovce;840
+2753;Inacovce;767
+2754;Jastrabie pri Michalovciach;279
+2755;Jovsa;791
+2756;Kacanov;441
+2757;Kaluza;404
+2758;Klokocov okres Michalovce;422
+2759;Zemplinske Kopcany;471
+2760;Krasnovce;624
+2761;Kusin;340
+2762;Lastomir;1176
+2763;Laskovce;661
+2764;Lesne;450
+2765;Lozin;812
+2766;Lucky okres Michalovce;581
+2767;Malcice;1493
+2768;Male Raskovce;240
+2769;Markovce;980
+2770;Moravany;1038
+2771;Nacina Ves;1805
+2772;Oreske okres Michalovce;474
+2773;Palin;913
+2774;Pavlovce nad Uhom;4562
+2775;Petrikovce;194
+2776;Petrovce nad Laborcom;1029
+2777;Poruba pod Vihorlatom;620
+2778;Pozdisovce;1292
+2779;Puste Cemerne;357
+2780;Rakovec nad Ondavou;1057
+2781;Senne okres Michalovce;710
+2782;Slavkovce;672
+2783;Sliepkovce;741
+2784;Stare;774
+2785;Strazske;4360
+2786;Stretava;681
+2787;Stretavka;181
+2788;Suche;395
+2789;Samudovce;660
+2790;Trhoviste;1975
+2791;Trnava pri Laborci;585
+2792;Tusice;688
+2793;Tusicka Nova Ves;536
+2794;Zaluzice;1150
+2795;Vinne;1771
+2796;Vola;256
+2797;Vrbnica;1088
+2798;Vysoka nad Uhom;798
+2799;Zavadka okres Michalovce;444
+2800;Zbudza;533
+2801;Zemplinska Siroka;941
+2802;Zbince;977
+2803;Besa okres Michalovce;369
+2804;Cicarovce;904
+2805;Cierne Pole;278
+2806;Drahnov;1476
+2807;Izkovce;100
+2808;Kapusianske Klacany;939
+2809;Krisovska Lieskova;937
+2810;Matovske Vojkovce;621
+2811;Oborin;727
+2812;Ptruksa;487
+2813;Ruska;607
+2814;Velke Kapusany;9105
+2815;Velke Raskovce;307
+2816;Velke Slemence;581
+2817;Vojany;905
+2818;Bretka;395
+2819;Gemerska Panica;633
+2820;Roznava;19291
+2821;Ardovo;160
+2822;Betliar;950
+2823;Bohunovo;274
+2824;Borka;565
+2825;Brdarka;61
+2826;Cierna Lehota okres Roznava;660
+2827;Coltovo;479
+2828;Dedinky;257
+2829;Dlha Ves;563
+2830;Dobsina;5657
+2831;Drnava;716
+2832;Gemerska Horka;1306
+2833;Gemerska Poloma;2020
+2834;Gocaltovo;239
+2835;Gocovo;348
+2836;Hankova;85
+2837;Henckovce;450
+2838;Honce;366
+2839;Hrhov;1109
+2840;Hrusov okres Roznava;328
+2841;Jablonov nad Turnou;765
+2842;Kecovo;351
+2843;Kobeliarovo;478
+2844;Kocelovce;243
+2845;Kovacova okres Roznava;62
+2846;Krasnohorska Dlha Luka;724
+2847;Krasnohorske Podhradie;2660
+2848;Kunova Teplica;702
+2849;Lipovnik okres Roznava;509
+2850;Lucka okres Roznava;181
+2851;Markuska;156
+2852;Meliata;206
+2853;Nizna Slana;1243
+2854;Ochtina;551
+2855;Paca;590
+2856;Paskova;342
+2857;Petrovo;110
+2858;Plesivec;2298
+2859;Rakovnica;583
+2860;Rejdova;770
+2861;Rochovce;348
+2862;Rostar;622
+2863;Rozlozna;214
+2864;Roznavske Bystre;623
+2865;Rudna;715
+2866;Silica;547
+2867;Silicka Brezova;157
+2868;Silicka Jablonica;191
+2869;Slavec;463
+2870;Slavoska;128
+2871;Slavosovce;1872
+2872;Stratena;124
+2873;Stitnik;1533
+2874;Vlachovo;831
+2875;Vysna Slana;483
+2876;Brzotin;1349
+2877;Cucma;651
+2878;Jovice;740
+2879;Kruzna;488
+2880;Baskovce okres Sobrance;248
+2881;Benatina;187
+2882;Bezovce;992
+2883;Blatna Polianka;161
+2884;Blatne Remety;674
+2885;Blatne Revistia;206
+2886;Bunkovce;364
+2887;Fekisovce;307
+2888;Hlivistia;377
+2889;Horna;353
+2890;Husak;162
+2891;Chonkovce;541
+2892;Inovce;212
+2893;Jasenov okres Sobrance;308
+2894;Jenkovce;439
+2895;Kolibabovce;195
+2896;Konus;344
+2897;Koromla;434
+2898;Krcava;414
+2899;Kristy;309
+2900;Lekarovce;908
+2901;Nizna Rybnica;412
+2902;Nizne Nemecke;336
+2903;Orechova;242
+2904;Ostrov okres Sobrance;311
+2905;Petrovce okres Sobrance;213
+2906;Pinkovce;171
+2907;Podhorod;362
+2908;Porostov;210
+2909;Porubka okres Sobrance;422
+2910;Priekopa;292
+2911;Remetske Hamre;576
+2912;Ruska Bystra;115
+2913;Ruskovce okres Sobrance;263
+2914;Rusky Hrabovec;311
+2915;Sejkov;201
+2916;Sobrance;6170
+2917;Svatus;111
+2918;Tasula;188
+2919;Tibava;554
+2920;Ubrez;780
+2921;Velke Revistia;520
+2922;Vojnatina;242
+2923;Vysna Rybnica;376
+2924;Vysne Nemecke;235
+2925;Vysne Remety;417
+2926;Zahor;653

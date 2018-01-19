@@ -1,0 +1,54 @@
+1;D3 - �ilina Brodno - Kysuck� Nov� Mesto;1;2;389748475.99;11.2;0
+2;D3 - Kysuck� Nov� Mesto - O��adnica ;2;3;298637718.00;10.79;0
+3;R3 - Ni�n� - Dlh� nad Oravou ;8;9;187682966.00;7.5;0
+4;R3 - Dlh� nad Oravou - Sedliacka Dubov� ;7;8;69170800.51;4.9;0
+5;R3 - Oravsk� Podz�mok - Doln� Kub�n sever;6;7;27700820.00;1.92;0
+6;R3 - Doln� Kub�n sever - Doln� Kub�n juh ;5;6;251360803.00;6.72;0
+7;R3 - Doln� Kub�n juh- Kri�ovatka D1 ;4;5;244415300.00;10.4;0
+8;R4 - �t. hr. PR/SR - Hunkovce ;18;19;124325336.53;7.9;0
+9;R4 - Ladomirov� - Hunkovce ;17;18;55545992.80;8.2;0
+10;R4 - Svidn�k - Rakov��k ;15;17;98067258.79;6;0
+11;R4 - Rakov��k - Radoma ;14;15;97344258.79;7;0
+12;R4 - Radoma - Giraltovce ;13;14;119667313.29;7.5;0
+13;R4 - Giraltovce - Kukov�;12;13;104788451.29;6.5;0
+14;R4 - Kukov� - Lipn�ky;11;12;129422178.73;8;0
+15;R4 - Lipn�ky - Kapu�any ;10;11;100006848.25;4;0
+16;R3 - Martin - Rakovo ;20;21;303009520.00;13.6;0
+17;R3 Rakovo � Mo�ovce ;21;22;91627492.00;10.25;0
+18;R3 Mo�ovce � Horn� �tub�a;22;23;70613200.00;7.85;0
+19;R3 - Horn� �tub�a - ��ovsk� Podhradie (Horn� �tub�a - R�zto�no);23;24;310227600.00;14;0
+20;R2 - Kri�ovatka D1 - Tren�ianska Turn� ;25;26;110739284.00;6.07;0
+21;R2 - Tren�ianska Turn� - Mn�chova Lehota;26;27;101602622.00;2.67;0
+22;R2 - Mn�chova Lehota - Ruskovce;27;29;164800000.00;15.98;0
+23;R2 - Pravotice - Doln� Vestenice ;29;30;234130000.00;11.54;0
+24;R2 - Doln� Vestenice - Nov�ky ;30;31;116243207.00;9.56;0
+25;R2 - Nov�ky - �iar nad Hronom;31;32;677965920.00;49;0
+26;R2 - Kriv�� - M�tna;33;34;233300000.00;9.15;0
+27;R2 - M�tna - Lovinoba�a. Tom�ovce;34;35;121280233.82;13.5;0
+28;R2 - Ro��ava - Jablonov nad Tur�ou ;42;43;304097865.80;14.1;0
+29;R2 - Lovinoba�a - O��any ;35;36;197797970.00;20.74;0
+30;R2 - O��any - Zacharovce ;36;37;117420000.00;10.56;0
+31;R2 - Zacharovce - B�tka ;37;38;85224091.00;8.32;0
+32;R2 - B�tka - Figa ;38;40;69038247.00;6.18;0
+33;R2 - Torna�a - Gombasek;40;41;172686355.00;18;0
+34;R2 - Gombasek - Ro��ava ;41;42;92537867.00;9.8;0
+35;R2 - Jablonov nad Tur�ou  - V�el�re;43;44;75270168.00;7.8;0
+36;R2 - V�el�re - Moldava;44;45;117238858.00;14;0
+37;R2 - Moldava - �aca;45;46;171266928.00;18;0
+38;D1 - Bidovce - Dargov ;47;48;418207702.00;12.6;0
+39;D1 - Dargov - Pozdi�ovce ;48;49;192135612.00;18.18;0
+40;D1 - Pozdi�ovce - Michalovce;49;50;162212223.00;12.05;0
+41;D1 - Michalovce - Sobrance;50;51;138546782.00;15.81;0
+42;D1 - Sobrance - hr. SR/UR;51;64;135796132.00;15.48;0
+43;R3 - Zvolen - �ahy ;52;53;610486716.00;52.5;0
+44;R3 - �ahy obchvat;53;65;65194090.00;4.843;0
+45;R7 - Holice - Mlie�any;54;55;99741487.00;11;0
+46;R7 - Mlie�any - Doln� Bar;55;56;82056060.00;9.5;0
+47;R7 - Doln� Bar - Zemn�;56;57;168595160.00;23.5;0
+48;R7 - Zemn� - Nov� Z�mky ;57;58;95457750.00;14.25;0
+49;R7 - Nov� Z�mky - �aka ;58;59;229460000.00;29.24;0
+50;R7 - �aka - Ve�k� Krt� ;59;60;552814000.00;71.26;0
+51;R7 - Ve�k� Krt� - Lu�enec ;60;35;367369000.00;32.8;0
+52;R6 - �t. hranica SR/�R - Meste�ko ;61;66;190049442.00;11;0
+53;R6 - Meste�ko - P�chov ;62;61;141234929.00;11.27;0
+54;R8 - Nitra - kri�ovatka R2 ;63;29;1012210000.00;54.88;0
